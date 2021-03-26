@@ -1,4 +1,4 @@
-# Hyperledger_EstateExchange_SmartContract_Project
+# IBM_Blockchain_Hyperledger_EstateExchange_Project
 
 Project Name: 
 Estate Exchange (Esx)
