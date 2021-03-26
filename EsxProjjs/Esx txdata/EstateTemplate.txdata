@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "transactionName": "createEstate",
+        "transactionLabel": "EstateTemplate",
+        "arguments": [
+            "arg0",   
+            "arg1",
+            "arg2",
+            "arg3",
+            "arg4",
+            "arg5",
+            "arg6",
+            "arg7"
+        ],
+        "transientData": {
+            "builder": "Company_Name",
+            "buildDate": "yyyy-mm-dd",
+            "tenure": "30/60/99/Freehold",
+            "postal": "123456",
+            "unit": "12-123",
+            "faceValue":"123456",
+            "option": "inDevelopment/complete",
+            "forSale": "yes/no"
+        }
+    }
+]

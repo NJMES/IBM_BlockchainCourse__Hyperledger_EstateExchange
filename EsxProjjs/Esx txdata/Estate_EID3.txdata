@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "transactionName": "createEstate",
+        "transactionLabel": "EID3",
+        "arguments": [
+            "Demo Developments",   
+            "2021-02-04",
+            "99",
+            "999999",
+            "09-999",
+            "90000",
+            "complete",
+            "yes"
+        ],
+        "transientData": {
+            "builder": "Company_Name",
+            "buildDate": "yyyy-mm-dd",
+            "tenure": "30/60/99/Freehold",
+            "postal": "123456",
+            "unit": "12-123",
+            "faceValue":"123456",
+            "option": "inDevelopment/complete",
+            "forSale": "yes/no"
+        }
+    }
+]
