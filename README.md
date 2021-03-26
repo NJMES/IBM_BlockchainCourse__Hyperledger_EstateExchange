@@ -12,7 +12,7 @@ Javascript
 Project Type: 
 Smart-Contract
 
-Contributors to the project: 
+Contributors to the Smart-Contract: 
 JiaMing, Wee Kim.
 
 Project Summary: 
