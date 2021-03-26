@@ -19,6 +19,7 @@ Project Summary:
 This a smart contract project is written and completed for IBM Blockchain Course (i.am-vitalize Cybersecurity specialization track).
 My team was task to provide a blockchain solution, leveraging on finding through our Enterprise Design Thinking session.
 We made the decision as a team take up the challenge to improve the liquidity of real-estate assets in Singapore, through identifying the inefficiencies in the current real-estate transfer process and highlight possible improvements through blockchain (hyperledger).
+Project is written leveraging on Hyperledger fabric samples(fabcar) as reference.
 
 Project Slide Link: 
 https://www.slideshare.net/JamesNeo9/estate-exchange-realestate-blockchain-slide
