@@ -1,4 +1,5 @@
 # Hyperledger_EstateExchange_SmartContract_Project
+
 Project Name: Estate Exchange (Esx)
 Blockchain: Hyperledger
 Language: Javascript
@@ -13,6 +14,6 @@ We made the decision as a team take up the challenge to improve the liquidity of
 Project Slide Link: 
 
 Learning Points: 
--Areas of improvement are written within the Smart-Contract as comments.  
--
+A) Areas of improvement are written within the Smart-Contract as comments.  
+B) 
 
