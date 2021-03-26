@@ -21,7 +21,7 @@ My team was task to provide a blockchain solution, leveraging on finding through
 We made the decision as a team take up the challenge to improve the liquidity of real-estate assets in Singapore, through identifying the inefficiencies in the current real-estate transfer process and highlight possible improvements through blockchain (hyperledger).
 
 Project Slide Link: 
-
+https://www.slideshare.net/JamesNeo9/estate-exchange-realestate-blockchain-slide
 
 Personal Learning Points: 
 A) Areas to Improve the Project are written within the Smart-Contract as comments.  
