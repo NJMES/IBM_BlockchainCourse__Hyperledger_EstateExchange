@@ -13,7 +13,7 @@ Project Type:
 Smart-Contract
 
 Contributors to the Smart-Contract: 
-JiaMing, Wee Kim(https://github.com/kim-pixel).
+JiaMing, Wee Kim (github.com/kim-pixel).
 
 Project Summary: 
 This a smart contract project is written and completed for IBM Blockchain Course (i.am-vitalize Cybersecurity specialization track).
